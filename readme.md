@@ -24,7 +24,8 @@ até chegar em "Software Selection (Passo 5 - instrução 5.)" e selecione a op�
 
 ## 🔧 Configurando os IPs Fixos nas VMs (Passo 2)<a name = "step2"></a>
 1. Antes de qualquer coisa, verifique se sua placa de rede está configurada no "Modo Bridge" nas configurações do VirtualBox.
-<img src="./Screenshots/ModoBridge.png" width="60%">
+
+    <img src="./Screenshots/ModoBridge.png" width="60%">
 
 2. Verifique os IPs disponíveis na sua rede para que não aja conflito. Garanta que o IP que você vai utilizar esteja dentro do intervalo de IPs disponíveis. Você checar isso pelas configurações do seu modem ou utilizando "nmap" no Linux.
 
@@ -98,7 +99,7 @@ até chegar em "Software Selection (Passo 5 - instrução 5.)" e selecione a op�
   ---
 
 
-## 📨 Criando e configurando NFS do servidor 1 para o servidor 2 (Passo 3)
+## 📨 Criando e configurando NFS do servidor 1 para o servidor 2 (Passo 3) <a name = "step3"></a>
 1. Para começar baixe o NFS Server. No caso do Oracle Linux, utilize este comando:
     	
       ```
