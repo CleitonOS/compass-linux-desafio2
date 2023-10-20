@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Instalando e configurando duas VMs com IPs fixos e NFS</h1>
-<p align="center"><i>Através desse repositório irei documentar o passo a passo para instalar e configurar duas VMs (Virtual Machine) sem GUI, e logo depois configurar um IP fixo para cada uma, além disso, criarei um NFS do servidor 1 para o servidor 2.</i></p>
+<p align="center"><i>Através desse repositório irei documentar o passo a passo para instalar e configurar duas VMs (Virtual Machine) sem GUI, e logo depois configurar um IP fixo para cada uma, além disso, criarei um NFS do servidor 1 para o servidor 2 para o compartilhamento de arquivos.</i></p>
 
 ---
 ## 📝 Tabela de conteúdos
